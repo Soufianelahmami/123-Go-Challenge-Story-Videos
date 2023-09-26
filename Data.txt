@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6PYge.webp",
+            "title": "123 Go Challenge Story Videos 1",
+            "text_Content_": "Challenge your team to create a bizarre yet delicious dish by randomly selecting ingredients from a hat. Will it be a chocolate spaghetti or a pickle ice cream sandwich? The taste test and reactions will be hilarious"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6gPNp.webp",
+            "title": "123 Go Challenge Story Videos 2",
+            "text_Content_": "Play an epic game of hide and seek in unusual locations. Whether it's a supermarket, a water park after hours, or a zoo, the thrill of hiding and seeking will keep viewers engaged."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6g6RR.webp",
+            "title": "123 Go Challenge Story Videos 3",
+            "text_Content_": "Set up an intricate obstacle course using household gadgets and appliances. Contestants have to navigate through it without causing any mishaps. The chaos that ensues will be both hilarious and thrilling"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6g4Hv.webp",
+            "title": "123 Go Challenge Story Videos 4",
+            "text_Content_": "Challenge participants to spend an entire day doing everything backward, from getting dressed to eating meals. Capture their humorous struggles as they try to go about their daily routine in reverse"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6ggUJ.webp",
+            "title": "123 Go Challenge Story Videos 5",
+            "text_Content_": "Pair up contestants and have them create artwork while blindfolded. The twist is they can only guide each other's hands to draw or paint. The final reveal will be a masterpiece of chaos."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6gUla.webp",
+            "title": "123 Go Challenge Story Videos 6",
+            "text_Content_": "Construct a homemade escape room with challenging puzzles and riddles. Time contestants as they race against the clock to solve each puzzle and escape from a themed room."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6gSKg.webp",
+            "title": "123 Go Challenge Story Videos 7",
+            "text_Content_": "Each participant is given a mystery ingredient they must incorporate into their dish. However, they can't reveal what the ingredient is until the taste test. Prepare for some unusual culinary concoctions."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJ6gviF.webp",
+            "title": "123 Go Challenge Story Videos 8",
+            "text_Content_": "Keep up with the latest TikTok trends and challenges. From dance challenges to viral pranks, try your hand at recreating these trends in your unique style."
         }
     ]
 }
